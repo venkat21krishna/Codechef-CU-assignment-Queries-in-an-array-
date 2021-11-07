@@ -8,7 +8,7 @@ import os,io
 n, q = stdin.readline().split()
 n=int(n)
 q=int(q)
-arr = [int(n) for n in input().split()]
+arr = int(n) for n in input().split()]
 for i in range(q):
     l,r,x=stdin.readline().split()
     l=int(l)
