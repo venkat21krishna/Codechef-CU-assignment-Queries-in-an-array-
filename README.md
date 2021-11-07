@@ -2,9 +2,13 @@
 
 #code
 #please like share subscribe the channel
+# *********GUYS PLEASE PRESS ON ABOVE SHOWN "Update README.md" YOU WILL GET THE 100% INDENTATED CORRECT CODE *******************
 
 from sys import stdin,stdout
+
 import os,io 
+
+
 n, q = stdin.readline().split()
 n=int(n)
 q=int(q)
